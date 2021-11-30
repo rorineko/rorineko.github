@@ -302,42 +302,6 @@ input{
     border-radius: 6px;
     background: url("img/location.png");
 }
-.vector3{
-    position: absolute;
-    width: 54px;
-    height: 54px;
-    top: 719px;
-    left: 445px;
-    background: url("img/umbrella.png");
-}
-.text4{
-    position: absolute;
-    width: 57px;
-    height: 23px;
-    left: 511.5px;
-    top: 720px;
-
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 23px;
-    color: rgba(255,183,44,1);
-}
-.text5{
-    position: absolute;
-    width: 324px;
-    height: 26px;
-    left: 511.5px;
-    top: 747px;
-
-    font-family: Noto Sans TC;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 26px;
-    color: rgba(210,210,210,1);
-}
 .end{
     display: flex;
     flex-direction: row;
@@ -353,7 +317,7 @@ input{
 
     background: rgba(255,255,255,1);
 }
-.text6{
+.text4{
     position: static;
     width: 263px;
     height: 14px;
